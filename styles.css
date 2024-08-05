@@ -1,0 +1,42 @@
+body {
+    font-family: "Kanit", sans-serif;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.button {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin: 10px auto;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    background-color: gold;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 64px;
+    color: white;
+}
+
+h3 {
+    color: gold;
+    font-weight: 400;
+}
+
+.block {
+    display: block;
+    width: 33%;
+	
+} 
+
+.center {
+    display: flex;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
